@@ -1,0 +1,23 @@
+{
+  "name": "Studio-Data-and-Variables-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunitha03-hue/Studio-Data-and-Variables-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunitha03-hue/Studio-Data-and-Variables-3/issues"
+  },
+  "homepage": "https://github.com/sunitha03-hue/Studio-Data-and-Variables-3#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
